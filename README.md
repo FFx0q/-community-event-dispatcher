@@ -26,10 +26,5 @@ Start listen for new requests. Use this after register events.
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/macotsuu/dispatcher/tags). 
 
-## Authors
-* **Dominik Szamburski** - *Initial work* - [nulldark](https://github.com/nulldark)
-
-See also the list of [contributors](https://github.com/macotsuu/dispatcher/contributors) who participated in this project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
